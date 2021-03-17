@@ -1,0 +1,7 @@
+#container {
+    box-sizing: border-box;
+    width: 800px;
+    padding: 15px 12px 15px 20px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
